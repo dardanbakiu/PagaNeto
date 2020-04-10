@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PagaNeto</string>
+    <string name="paga_bruto">Paga Bruto</string>
+    <string name="kontributi_punetorit">Kontributi i punëtorit : </string>
+    <string name="kontributi_punedhenesit">Kontributi i punëdhënësit : </string>
+    <string name="kontributi_total">Kontributi i total : </string>
+    <string name="tatimi">Tatimi për pagën  : </string>
+    <string name="kalkulo">Kalkulo</string>
+    <string name="paga_neto">Paga neto : </string>
+
+</resources>
